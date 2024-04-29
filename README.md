@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chelsea</h1>
 <h3 align="center">Aspiring game developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelseasoto" alt="chelseasoto" /></a> </p>
-
 - 💻 My primary experience is in programming, but I'm slowly transitioning into UI design.
 
 - 🔭 I’m currently working on [Cryptid Control](https://github.com/corysmith19x/GP3-Team-2-Repo)
