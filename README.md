@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chelsea</h1>
-<h3 align="center">Aspiring game developer.</h3>
+<h1 align="center">Hi 👋, I'm Chelsea.</h1>
+<h3 align="center">A game design student at UCF.</h3>
 
 - 💻 My primary experience is in programming, but I'm slowly transitioning into UI design.
 
