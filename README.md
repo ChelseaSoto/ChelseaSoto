@@ -3,15 +3,15 @@
 
 - 💻 My primary experience is in programming, but I'm slowly transitioning into UI design.
 
-- 🔭 I’m currently working on [Cryptid Control](https://github.com/corysmith19x/GP3-Team-2-Repo)
+- 🔭 I’m currently working on [Cryptid Control](https://github.com/corysmith19x/GP3-Team-2-Repo).
 
-- 🌱 I’m currently learning **UI design, C#, Unity Engine, UI art**
+- 🌱 I’m currently learning **UI design, C#, Unity Engine, UI art**.
 
-- 👨‍💻 All of my projects are available on my [itch.io](https://chelseasoto.itch.io/)
+- 👨‍💻 All of my projects are available on my [itch.io](https://chelseasoto.itch.io/).
 
-- 📫 How to reach me **chelsea.soto001@gmail.com**
+- 📫 How to reach me: **chelsea.soto001@gmail.com**.
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/chelseasoto001)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/chelseasoto001).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
