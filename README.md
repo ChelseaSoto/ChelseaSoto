@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chelsea.</h1>
 <h3 align="center">A game design student at UCF.</h3>
 
-- 💻 My primary experience is in programming, but I'm slowly transitioning into UI design.
+- 💻 My primary experience is in programming, but I'm slowly transitioning into UI and Tech design.
 
-- 🔭 I’m currently working on [Cryptid Control](https://github.com/corysmith19x/GP3-Team-2-Repo).
+- 🔭 I’m currently working on [Revenant](https://github.com/ChelseaSoto/Revenant) and [Ricky's Hungry Night](https://github.com/JMUCF/casual-game).
 
-- 🌱 I’m currently learning **UI design, C#, Unity Engine, UI art**.
+- 🌱 I’m currently learning **UI design, C#, Unity Engine, UI art, C++, Unreal Engine**.
 
 - 👨‍💻 All of my projects are available on my [itch.io](https://chelseasoto.itch.io/).
 
